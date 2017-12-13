@@ -28,12 +28,15 @@ h2{
   height: 400px;
 }
 
-.content {
+.centering {
+  margin: 0 auto;
   text-align: center;
-  margin: 20px;
+  width: 800px;
 }
 
 .canva-embed {
+  max-width: 700px;
+  margin: 20px;
   padding: 75% 5px 5px 5px;
   background: rgba(0,0,0,0.03);
   border-radius: 8px;
