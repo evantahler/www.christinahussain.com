@@ -1,9 +1,34 @@
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 h1{
-  font-size: 60px;
-  padding: 10px;
-  color: black;
+  padding-top: 30px;
+  margin-left: 30px;
+  font-size: 80px;
+  font-weight: 800;
+  color: white;
+}
+
+h2{
+  margin-left: 40px;
+  font-size: 40px;
+  font-weight: 400;
+  color: white;
+}
+
+.header {
+  background-image:url("../images/books.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 400px;
+}
+
+.content {
+  text-align: center;
+  margin: 20px;
 }
