@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/evantahler/www.christinahussain.com#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "standard": "^10.0.3"
   }
 }
