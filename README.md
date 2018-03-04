@@ -1,4 +1,5 @@
 # Christina's Website
+[![CircleCI](https://circleci.com/gh/evantahler/www.christinahussain.com.svg?style=svg)](https://circleci.com/gh/evantahler/www.christinahussain.com)
 
 Running the command will tell you how to look at the site on your computer
 
@@ -19,7 +20,7 @@ Then:
 
 ## Building for Production
 
-The master branch of this repository is automatically deployed to heroku
+The master branch of this repository is automatically deployed to github pages by circle.ci when the build is green
 
 ## Linting
 
