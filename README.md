@@ -8,7 +8,7 @@ I am an isomorphic React + Next.JS project.
 ## Install
 This is a [React Project](https://facebook.github.io/react/) utilizing [next.js](https://github.com/zeit/next.js/) and [react-bootstrap](https://react-bootstrap.github.io/)
 
-* You can run a local server with `npm rnu dev`
+* You can run a local server with `npm run dev`
   * You will need homebrew (https://brew.sh/)
   * You will need node.js installed (`brew install node`)
 
