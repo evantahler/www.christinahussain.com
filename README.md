@@ -1,12 +1,30 @@
 # Christina's Website
 
-## Development
-* You can run a local server with `npm start`
+Running the command will tell you how to look at the site on your computer
+
+I am an isomorphic React + Next.JS project.
+
+## Install
+This is a [React Project](https://facebook.github.io/react/) utilizing [next.js](https://github.com/zeit/next.js/) and [react-bootstrap](https://react-bootstrap.github.io/)
+
+* You can run a local server with `npm rnu dev`
   * You will need homebrew (https://brew.sh/)
   * You will need node.js installed (`brew install node`)
-  * You will need to install the dependancies for the project `npm install`
 
-Running the command will tell you how to look at the site
+Then:
+- `npm install`
 
-## Deployment
-* Just `git push`.  The site is served by Github.com's static site hosting
+## Running in Development (on your laptop)
+- `npm run dev`
+
+## Building for Production
+
+The master branch of this repository is automatically deployed to heroku
+
+## Linting
+
+We use [standard.js](https://standardjs.com) to manage our lint rules.  We run `standard` as part of our test suite, and your contributions must pass.  Standard is *very* opinionated and inflexible such that we cannot inject our own opinions.  There are no eslint/jshint files to manage in this project.  
+
+## CSS
+- we use a default boostrap CSS file
+- all components provide thier own CSS inline
