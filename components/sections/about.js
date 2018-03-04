@@ -3,7 +3,7 @@ import { Col, Row, ProgressBar } from 'react-bootstrap'
 
 export default class extends React.Component {
   render () {
-    const percent = 40
+    const percent = 30
 
     return (
       <div id='about'>
@@ -17,7 +17,7 @@ export default class extends React.Component {
         </Row>
         <Row>
           <Col md={4}>
-            <p>I am {percent}% done with my Masters Degree</p>
+            <p>I am {percent}% done with my degree.</p>
           </Col>
           <Col md={8}>
             <ProgressBar striped active now={percent} label={`${percent}%`} />

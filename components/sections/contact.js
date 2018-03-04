@@ -11,7 +11,7 @@ export default class extends React.Component {
 
             <ListGroup>
               <ListGroupItem><a href='mailto:CHussain@uw.edu'>CHussain@uw.edu</a></ListGroupItem>
-              <ListGroupItem>+1 415.975.1565</ListGroupItem>
+
               <ListGroupItem><a href='https://www.linkedin.com/in/christinahussain'>www.linkedin.com/in/christinahussain</a></ListGroupItem>
             </ListGroup>
           </Col>

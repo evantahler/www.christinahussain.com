@@ -42,10 +42,10 @@ export default class extends React.Component {
 
         <Row>
           <Col md={6}>
-            <Poloroid src='/static/images/ancestry-1.png' caption='Ancestry Testing Survery Results' />
+            <Poloroid src='/static/images/ancestry-1.png' caption='Survey Results' />
           </Col>
           <Col md={6}>
-            <Poloroid src='/static/images/ancestry-2.png' caption='Ancestry Testing Survery Results' />
+            <Poloroid src='/static/images/ancestry-2.png' caption='Survey Results' />
           </Col>
         </Row>
       </div>
