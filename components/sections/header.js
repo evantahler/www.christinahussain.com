@@ -33,9 +33,9 @@ export default class extends React.Component {
               </p>
 
               <p>
-                <Button bsStyle='primary' bsSize='large' href='#kidsteam'>Kids Team SPL</Button>
-                <Button bsStyle='primary' bsSize='large' href='#ancestry'>B2C Ancestry Testing Survey</Button>
-                <Button bsStyle='primary' bsSize='large' href='#personalProjects'>Personal Projects</Button>
+                <Button bsStyle='primary' href='#kidsteam'>Kids Team SPL</Button>
+                <Button bsStyle='primary' href='#ancestry'>B2C Ancestry Testing Survey</Button>
+                <Button bsStyle='primary' href='#personalProjects'>Personal Projects</Button>
               </p>
             </Col>
           </Row>
