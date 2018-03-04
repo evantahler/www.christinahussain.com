@@ -18,6 +18,9 @@ Then:
 ## Running in Development (on your laptop)
 - `npm run dev`
 
+## Testing like the server does
+- `npm test`
+
 ## Building for Production
 
 The master branch of this repository is automatically deployed to github pages by circle.ci when the build is green

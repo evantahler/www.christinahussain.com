@@ -10,6 +10,6 @@ describe('section', () => {
     let body = ReactDOM.findDOMNode(page).textContent
 
     expect(body).toContain('My passion')
-    expect(body).toContain('40%')
+    expect(body).toContain('%')
   })
 })
