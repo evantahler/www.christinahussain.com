@@ -19,7 +19,7 @@ export default class extends React.Component {
 
           <Col md={8}>
             <h3>Scoreboard Guru</h3>
-            <p>My partner and I love playing card games, especially when traveling.  We wanted a better tool for keeping track of the scores and locations of the games we were playing... enter the Scoreboard app! We designed the app to allow users to keep score during games, track and chart previous scoring data, as well as capture a photo and location for each game play,  We love using the app and so far have captured our card game scores in nearly 10 countries!</p>
+            <p>My partner and I love playing card games, especially when traveling.  We wanted a better tool for keeping track of the scores and locations of the games we were playing... enter the Scoreboard app! We designed the app to allow users to keep score during games, track and chart previous scoring data, as well as capture a photo and location for each game play,  We loved using the app and captured our card game scores in nearly 10 countries!</p>
           </Col>
         </Row>
 
