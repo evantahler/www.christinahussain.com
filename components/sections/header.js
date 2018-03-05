@@ -44,7 +44,7 @@ export default class extends React.Component {
               <p>
                 <Button bsStyle='primary' href='#personalProjects'>Scoreboard.guru</Button>
                 <Button bsStyle='primary' href='#personalProjects'>Star Team</Button>
-                <Button bsStyle='primary' href='#personalProjects'>Research</Button>
+                <Button bsStyle='primary' href='#personalProjects'>Research & Recommendations</Button>
               </p>
             </Col>
           </Row>
