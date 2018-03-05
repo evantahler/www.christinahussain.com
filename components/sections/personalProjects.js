@@ -40,7 +40,7 @@ export default class extends React.Component {
           </Col>
 
           <Col md={8}>
-            <h3>Travel, Adventure, and Food Reaserch and Recomendations</h3>
+            <h3>Travel, Adventure, and Food Reaserch and Recommendations</h3>
             <p>My great loves are travel, food, and adventure... and I know that in order to have the best experiences possible in those categories, it's usually going to take a good amount of research and digging.  I spend countless hours reading through blogs, articles, and review sites, gathering useful nuggets of information. Then, I take everything I learn and go and have amazing experiences (and share what I learned with my friends and colleagues). If you need ideas for a date night in Seattle or recommendations for lodgings in the Scottish Highlands... I'd love to help!</p>
           </Col>
         </Row>
