@@ -27,7 +27,7 @@ export default class extends React.Component {
             <DefaultCard title='Winter 2018 (in progress)'>
               <ul>
                 <li>Visualization Design</li>
-                <li>Design Methods for Librarianship</li>
+                <li>Design Methods</li>
                 <li>Organization of Information & Resources</li>
                 <li>Human Centered Design & Engineering: Directed Research Group</li>
               </ul>

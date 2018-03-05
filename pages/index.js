@@ -6,6 +6,7 @@ import Header from './../components/sections/header.js'
 import About from './../components/sections/about.js'
 import KidsTeam from './../components/sections/kidsTeam.js'
 import Ancestry from './../components/sections/ancestry.js'
+import NewsConnections from './../components/sections/newsConnections.js'
 import PersonalProjects from './../components/sections/personalProjects.js'
 import Contact from './../components/sections/contact.js'
 import RelevantCoursework from './../components/sections/relevantCoursework.js'
@@ -29,6 +30,9 @@ export default class extends React.Component {
 
         <hr />
         <Ancestry />
+
+        <hr />
+        <NewsConnections />
 
         <hr />
         <PersonalProjects />

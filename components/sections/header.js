@@ -9,7 +9,7 @@ export default class extends React.Component {
         <Jumbotron>
           <Row>
             <Col md={4}>
-              <Poloroid src='/static/images/me.jpg' caption='Me!' />
+              <Poloroid src='/static/images/me.jpg' />
             </Col>
             <Col md={8}>
               <h1>Christina Hussain</h1>
@@ -29,13 +29,22 @@ export default class extends React.Component {
               <hr />
 
               <p>
-                Projects:
+                School Projects:
               </p>
 
               <p>
-                <Button bsStyle='primary' href='#kidsteam'>Kids Team SPL</Button>
+                <Button bsStyle='primary' href='#kidsteam'>Participatory Design</Button>
                 <Button bsStyle='primary' href='#ancestry'>Research Project</Button>
-                <Button bsStyle='primary' href='#personalProjects'>Personal Projects</Button>
+                <Button bsStyle='primary' href='#newsConnections'>App Prototype</Button>
+              </p>
+              <p>
+                Personal Projects:
+              </p>
+
+              <p>
+                <Button bsStyle='primary' href='#personalProjects'>Scoreboard.guru</Button>
+                <Button bsStyle='primary' href='#personalProjects'>Star Team</Button>
+                <Button bsStyle='primary' href='#personalProjects'>Research</Button>
               </p>
             </Col>
           </Row>

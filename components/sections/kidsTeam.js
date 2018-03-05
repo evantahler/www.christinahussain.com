@@ -34,10 +34,10 @@ export default class extends React.Component {
           </Col>
 
           <Col md={4}>
-            <Poloroid src='/static/images/kidsteam.png' caption='Kids Team Classroom' />
-            <Poloroid src='/static/images/kidsteam-reflect-1.png' caption='Kids Team Reflection #1' />
-            <Poloroid src='/static/images/kidsteam-reflect-2.png' caption='Kids Team Reflection #2' />
-            <Poloroid src='/static/images/kidsteam-reflect-3.png' caption='Kids Team Reflection #3' />
+            <Poloroid src='/static/images/kidsteam.png' caption='Kids Team in Action' />
+            <Poloroid src='/static/images/kidsteam-reflect-1.png' caption='Affinity Diagram' />
+            <Poloroid src='/static/images/kidsteam-reflect-2.png' caption='Affinity Diagramming' />
+            <Poloroid src='/static/images/kidsteam-reflect-3.png' caption='Design Ideas from the Kids' />
           </Col>
         </Row>
       </div>
