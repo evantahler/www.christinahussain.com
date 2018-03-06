@@ -23,7 +23,7 @@ export default class extends React.Component {
                 <Button bsStyle='primary' bsSize='large' href='#about'>About</Button>
                 <Button bsStyle='primary' bsSize='large' href='#relevantCoursework'>Relevant Coursework</Button>
                 <Button bsStyle='primary' bsSize='large' href='#contact'>Contact</Button>
-                <Button bsStyle='primary' bsSize='large' href='/static/downloads/ChristinaHussain_Resume.pdf'>Download Resume</Button>
+                <Button bsStyle='primary' bsSize='large' href='/static/downloads/ChristinaHussain_Resume_March2018.pdf'>Download Resume</Button>
               </p>
 
               <hr />
@@ -33,9 +33,9 @@ export default class extends React.Component {
               </p>
 
               <p>
+                <Button bsStyle='primary' href='#newsConnections'>App Prototype</Button>
                 <Button bsStyle='primary' href='#kidsteam'>Participatory Design</Button>
                 <Button bsStyle='primary' href='#ancestry'>Research Project</Button>
-                <Button bsStyle='primary' href='#newsConnections'>App Prototype</Button>
               </p>
               <p>
                 Personal Projects:

@@ -26,13 +26,13 @@ export default class extends React.Component {
         <RelevantCoursework />
 
         <hr />
+        <NewsConnections />
+
+        <hr />
         <KidsTeam />
 
         <hr />
         <Ancestry />
-
-        <hr />
-        <NewsConnections />
 
         <hr />
         <PersonalProjects />
