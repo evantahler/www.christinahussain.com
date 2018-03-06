@@ -9,7 +9,7 @@ export default class extends React.Component {
         <Head>
           <meta name='viewport' content='width=device-width' />
           <link rel='stylesheet' type='text/css' href='/static/css/bootstrap.css' />
-          <title>Christina Hussain: UX Architect</title>
+          <title>Christina Hussain: Portfolio</title>
 
           <link rel='apple-touch-icon' sizes='180x180' href='/static/images/icons/apple-touch-icon.png' />
           <link rel='icon' type='image/png' sizes='32x32' href='/static/images/icons/favicon-32x32.png' />
