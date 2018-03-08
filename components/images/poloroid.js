@@ -15,6 +15,7 @@ const containerStyle = {
 }
 
 const imageStyle = {
+  marginTop: '20px',
   maxWidth: '80%',
   border: '1px solid #021a40'
 }

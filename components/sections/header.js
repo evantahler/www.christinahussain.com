@@ -1,5 +1,5 @@
 import React from 'react'
-import { Col, Row, Jumbotron, Button } from 'react-bootstrap'
+import { Col, Row, Jumbotron, Button, ButtonToolbar } from 'react-bootstrap'
 import Poloroid from './../images/poloroid'
 
 export default class extends React.Component {
@@ -19,12 +19,12 @@ export default class extends React.Component {
                 FALL 2017-SPRING 2019
               </p>
 
-              <p>
+              <ButtonToolbar>
                 <Button bsStyle='primary' bsSize='large' href='#about'>About</Button>
-                <Button bsStyle='primary' bsSize='large' href='#relevantCoursework'>Relevant Coursework</Button>
+                <Button bsStyle='primary' bsSize='large' href='#relevantCoursework'>Coursework</Button>
                 <Button bsStyle='primary' bsSize='large' href='#contact'>Contact</Button>
                 <Button bsStyle='primary' bsSize='large' href='/static/downloads/ChristinaHussain_Resume_March2018.pdf'>Download Resume</Button>
-              </p>
+              </ButtonToolbar>
 
               <hr />
 
