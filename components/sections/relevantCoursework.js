@@ -14,7 +14,7 @@ export default class extends React.Component {
 
         <Row>
           <Col md={4}>
-            <DefaultCard title='Fall 2017'>
+            <DefaultCard title='Fall 2017 (completed)'>
               <ul>
                 <li>Participatory Design in Libraries</li>
                 <li>Research, Assessment, and Design</li>
