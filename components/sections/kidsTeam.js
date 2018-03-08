@@ -17,11 +17,11 @@ export default class extends React.Component {
             <p>For the fall quarter of 2017, I was a graduate student member of KidsTeam SPL’s research team. I served as an adult co-designer during the weekly co-design sessions, designed and led one of the sessions (with a team of three others), and analyzed and coded the data collected from the seven sessions in order to create design recommendations related to digital games and storytelling activities. </p>
 
             <h3>Key Takeaways</h3>
-            <ul>
-              <li>1. Identified strategies with which digital games can be incorporated into storytelling activities with youth.</li>
-              <li>2. Used co-design as a technique for generating insight and feedback from youth and adults regarding story creation, game play, and game design.</li>
-              <li>3. Learned how to successfully lead and participate in participatory design activities with youth.</li>
-            </ul>
+            <ol>
+              <li>Identified strategies with which digital games can be incorporated into storytelling activities with youth.</li>
+              <li>Used co-design as a technique for generating insight and feedback from youth and adults regarding story creation, game play, and game design.</li>
+              <li>Learned how to successfully lead and participate in participatory design activities with youth.</li>
+            </ol>
 
             <h3>Project Rundown</h3>
             <p>Participatory Design in Libraries is a new course in UW’s iSchool, that blends classroom learning with real world design and research. Through this course I was able to attend weekly classroom sessions focused on learning about the theory behind participatory design, as well as be an adult participant in KidsTeam SPL.</p>
