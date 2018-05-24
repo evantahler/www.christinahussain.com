@@ -24,7 +24,7 @@ export default class extends React.Component {
           </Col>
 
           <Col md={4}>
-            <DefaultCard title='Winter 2018 (in progress)'>
+            <DefaultCard title='Winter 2018 (completed)'>
               <ul>
                 <li>Visualization Design</li>
                 <li>Design Methods</li>
@@ -35,7 +35,7 @@ export default class extends React.Component {
           </Col>
 
           <Col md={4}>
-            <DefaultCard title='Sping 2018 (anticipated)'>
+            <DefaultCard title='Sping 2018 (in progress)'>
               <ul>
                 <li>Designing Information Experiences</li>
                 <li>Introduction to Programming for Information & Data Science</li>

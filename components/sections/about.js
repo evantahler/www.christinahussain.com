@@ -3,7 +3,7 @@ import { Col, Row, ProgressBar } from 'react-bootstrap'
 
 export default class extends React.Component {
   render () {
-    const percent = 30
+    const percent = 50
 
     return (
       <div id='about'>

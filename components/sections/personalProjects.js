@@ -30,7 +30,7 @@ export default class extends React.Component {
 
           <Col md={8}>
             <h3>Star Team: Adventures in Space Recruiting</h3>
-            <p>It has always been my dream to make my own board or card game... and I (along with my partner) am currently in the process of making that dream a reality! We have designed the game mechanics and theming for a 2-3 person card game (in the vein of an advanced gin rummy) and are currently in the final stages of producing our cards and instructions. In March, we will be hosting user testing sessions (with drinks and snacks!)... let me know if you'd like to join one!</p>
+            <p>It has always been my dream to make my own board or card game... and I (along with my partner) am currently in the process of making that dream a reality! We have designed the game mechanics and theming for a 2-3 person card game (in the vein of an advanced gin rummy) and are currently in the final stages of producing our cards and instructions. This summer, we will be hosting user testing sessions (with drinks and snacks!)... let me know if you'd like to join one!</p>
           </Col>
         </Row>
 
